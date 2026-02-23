@@ -10,16 +10,12 @@ IMDB Dataset.csv
 Contains labeled movie reviews used for training, validation, and testing. Reviews are preprocessed and tokenized before being passed to the model.
 
 #### Project Structure
-LSTM1.ipynb
+
+##### LSTM1.ipynb
 Implements the full LSTM sentiment analysis pipeline, including data preprocessing, tokenization, model architecture, training, and evaluation.
-LSTM2.ipynb
+
+###### LSTM2.ipynb
 Provides an in-depth analysis of the dataset, model predictions, and error patterns, including false positives, false negatives, confidence-based errors, and review length analysis.
-Comparison Facts.docx
-Contains a structured comparison between the results obtained in this project and performance reported in existing literature.
-LSTM Presentation.pdf
-Summarizes the methodology, experimental setup, results, and conclusions in presentation format.
-Scientific LSTM Paper.pdf
-The complete scientific paper describing the proposed approach, experimental results, comparative evaluation, limitations, and conclusions.
 
 #### Methodology
 Text preprocessing and tokenization with a fixed vocabulary size
