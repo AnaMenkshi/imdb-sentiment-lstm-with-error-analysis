@@ -14,7 +14,7 @@ Contains labeled movie reviews used for training, validation, and testing. Revie
 ##### LSTM1.ipynb
 Implements the full LSTM sentiment analysis pipeline, including data preprocessing, tokenization, model architecture, training, and evaluation.
 
-###### LSTM2.ipynb
+##### LSTM2.ipynb
 Provides an in-depth analysis of the dataset, model predictions, and error patterns, including false positives, false negatives, confidence-based errors, and review length analysis.
 
 #### Methodology
